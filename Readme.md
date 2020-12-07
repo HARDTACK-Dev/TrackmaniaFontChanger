@@ -2,11 +2,11 @@
 
 ![](https://img.shields.io/badge/Game-Trackmania-lightgrey)![](https://img.shields.io/badge/Version-2.0-orange)![](https://img.shields.io/badge/License-GPL-blue)
 
-### 																		Trackmania Fonter  (v2.0)
+## 																		Trackmania Fonter  (v2.0)
 
 ------
 
-###### 															  A Program that can change displayed fonts on TrackMania United<img src="C:\Users\건빵\Desktop\포트폴리오\TM Fonter V2\Icons\TMUF.png" style="zoom:8%;" /> / Nations<img src="C:\Users\건빵\Desktop\포트폴리오\TM Fonter V2\Icons\TMNF.jpeg" style="zoom:5%;" />
+##### 															  A Program that can change displayed fonts on TrackMania United<img src="C:\Users\건빵\Desktop\포트폴리오\TM Fonter V2\Icons\TMUF.png" style="zoom:8%;" /> / Nations<img src="C:\Users\건빵\Desktop\포트폴리오\TM Fonter V2\Icons\TMNF.jpeg" style="zoom:5%;" />
 
 ​																			        											by <img src="C:\Users\건빵\Pictures\프로필.png" style="zoom:10%;" /> Hardtack
 
@@ -18,7 +18,7 @@
 
  
 
-#####  																			※ before using, This program is not officially made by Nadeo
+####  																			※ before using, This program is not officially made by Nadeo
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-#### What can I change?
+### What can I change?
 
 ---
 
@@ -37,7 +37,7 @@
 
 
 
-#### Dependencies
+### Dependencies
 
 ---
 
@@ -45,7 +45,7 @@ Program Written in <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 
 
 
-#### How It's Work
+### How It's Work
 
 ----
 
@@ -63,13 +63,13 @@ So if you want to restore, just backup Default dds file or Copy it From `Fonts\O
 
 
 
-#### Changelog 
+### Changelog 
 
 ---
 
-### [ v2.0 ](https://github.com/HARDTACK-Dev/TrackmaniaFontChanger/releases/tag/v2.0)  - 2020-12-07
+#### [ v2.0 ](https://github.com/HARDTACK-Dev/TrackmaniaFontChanger/releases/tag/v2.0)  - 2020-12-07
 
-### Added
+#### Added
 
 - **Remade with Python3 / PyQt5**
 - UI/UX Redesigned
@@ -97,7 +97,7 @@ So if you want to restore, just backup Default dds file or Copy it From `Fonts\O
 
 
 
-#### Folder Structure
+### Folder Structure
 
 ---
 
