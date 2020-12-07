@@ -41,7 +41,7 @@
 
 ---
 
-Program Written in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="파일:Python-logo-notext.svg - 위키백과, 우리 모두의 백과사전" style="zoom:3%;" />Python3,  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1024px-Qt_logo_2016.svg.png" alt="파일:Qt logo 2016.svg - 위키백과, 우리 모두의 백과사전" style="zoom:3%;" />Pyqt5, *You can also see all source code on GitHub repo*
+Program Written in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png = 5x5 />Python3,  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1024px-Qt_logo_2016.svg.png" alt="파일:Qt logo 2016.svg - 위키백과, 우리 모두의 백과사전" style="zoom:3%;" />Pyqt5, *You can also see all source code on GitHub repo*
 
 
 
