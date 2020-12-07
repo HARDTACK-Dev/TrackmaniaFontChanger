@@ -1,6 +1,6 @@
 
 
-![](https://img.shields.io/badge/Game-Trackmania-lightgrey)![](https://img.shields.io/badge/Version-2.0-orange)![](https://img.shields.io/badge/License-GPL-blue)
+![](https://img.shields.io/badge/Game-Trackmania-lightgrey) ![](https://img.shields.io/badge/Version-2.0-orange) ![](https://img.shields.io/badge/License-GPL-blue)
 
 ### 																		Trackmania Fonter  (v2.0)
 
@@ -8,7 +8,7 @@
 
 ###### 															  A Program that can change displayed fonts on TrackMania United<img src="C:\Users\건빵\Desktop\포트폴리오\TM Fonter V2\Icons\TMUF.png" style="zoom:8%;" /> / Nations<img src="C:\Users\건빵\Desktop\포트폴리오\TM Fonter V2\Icons\TMNF.jpeg" style="zoom:5%;" />
 
-​																			        											by <img src="C:\Users\건빵\Pictures\프로필.png" width=23 /> Hardtack
+​																			        										 	by <img src="C:\Users\건빵\Pictures\프로필.png" width=23 /> Hardtack
 
 ​                                                                                                                                 
 
@@ -18,7 +18,7 @@
 
  
 
-#####  																			※ before using, This program is not officially made by Nadeo
+#####  																		 	※ before using, This program is not officially made by Nadeo
 
 
 
