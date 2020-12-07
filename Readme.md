@@ -2,31 +2,25 @@
 
 ![](https://img.shields.io/badge/Game-Trackmania-lightgrey) ![](https://img.shields.io/badge/Version-2.0-orange) ![](https://img.shields.io/badge/License-GPL-blue)
 
-### 																		Trackmania Fonter  (v2.0)
+## <pre>Trackmania Fonter  (v2.0) </pre>
 
-------
 
-###### 															  A Program that can change displayed fonts on TrackMania United<img src="C:\Users\건빵\Desktop\포트폴리오\TM Fonter V2\Icons\TMUF.png" style="zoom:8%;" /> / Nations<img src="C:\Users\건빵\Desktop\포트폴리오\TM Fonter V2\Icons\TMNF.jpeg" style="zoom:5%;" />
 
-​																			        										 	by <img src="C:\Users\건빵\Pictures\프로필.png" width=23 /> Hardtack
+###### 															  A Program that can change displayed fonts on TrackMania United <img src="https://cdn.discordapp.com/attachments/465451394032336896/785418360706957322/TMUF.png" width=18/> / Nations<img src="https://cdn.discordapp.com/attachments/465451394032336896/785418359763238922/TMNF.jpeg" width=16/>
 
+​																			        									
 ​                                                                                                                                 
-
-
-
 ![image-20201207123801321](https://cdn.discordapp.com/attachments/465451394032336896/785416925181640714/Preview.png)
 
  
 
-#####  																		 	※ before using, This program is not officially made by Nadeo
 
 
+[View Changlog]( Readme.md "Changelog")
 
-​																															[View Changlog]( Readme.md "Changelog")
+<br><br><br>
 
-
-
-#### What can I change?
+### What can I change?
 
 ---
 
@@ -36,8 +30,11 @@
 - In-game Timer
 
 
+<br><br><br>
 
-#### Dependencies
+
+
+### Dependencies 
 
 ---
 
@@ -45,15 +42,17 @@ Program Written in <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 
 
 
+<br><br><br>
+
 #### How It's Work
 
 ----
 
 The working principle of this program is to transfer the custom font file to the TrackMania installation folder 
 
-> ```python
-> \GameData\Interface\media\fonds\RedTexture\Led_00.dds
-> ```
+ ```python
+ \GameData\Interface\media\fonds\RedTexture\Led_00.dds
+ ```
 
 It replacing the `Led_00.dds` file to Customized Font file, So that game read.
 
@@ -62,8 +61,9 @@ So if you want to restore, just backup Default dds file or Copy it From `Fonts\O
 
 
 
+<br><br><br>
 
-#### Changelog 
+### Changelog 
 
 ---
 
@@ -77,6 +77,8 @@ So if you want to restore, just backup Default dds file or Copy it From `Fonts\O
 - **`17`** Font Added 
 
 
+
+<br><br>
 
 ----
 
@@ -93,7 +95,7 @@ So if you want to restore, just backup Default dds file or Copy it From `Fonts\O
 
 
 
-
+<br><br><br>
 
 
 
